@@ -1,0 +1,12 @@
+div.foto{
+    height: 300px;
+    width: 300px;
+    background: url(/images/foto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+}
+
+table,tr,td{
+    border:1px solid black;
+}
